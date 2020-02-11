@@ -1,0 +1,12 @@
+.card {
+  max-width: 540px;
+}
+
+.listItem {
+  width: 100px;
+  height: 100px;
+}
+
+.listGroup {
+  float: left;
+}
