@@ -3,14 +3,7 @@
 
 ## Description 
 
-I decided to build a website in order to showcase all the amazing projects that I have been developing. The technologies included in this website include HTML and CSS. The website includes the following pages:
-
-* Index
-* Portfolio
-* Contact
-
-The portfolio page includes links to finished projects. The contact page includes a form for those users that wish to contact me. 
-
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. This app allows a manager to filter employees by tenure (10 years) or alphabetically by first name.
 
 ## Installation
 
